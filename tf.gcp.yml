@@ -1,6 +1,6 @@
 plugin: gcp_compute
 projects:
-  - infra-tf-20210720-student6xinn
+  - infra-tf-20210722-student3xinn
 auth_kind: serviceaccount
 service_account_file: ./creds/jenkins-sa.json
 filters: []
